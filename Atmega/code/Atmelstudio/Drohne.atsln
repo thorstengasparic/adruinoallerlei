@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "ArduinoCore", "Libraries\ArduinoCore\ArduinoCore.cppproj", "{73ABF131-9EE4-46C0-B43E-CEBA09317B07}"
+EndProject
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "Blink", "Blink\Blink.cppproj", "{C5BB2EA7-0FF1-4E21-BA8A-3DA61E5B7A70}"
+EndProject
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "AL-Setup", "AL-Setup\AL-Setup.cppproj", "{C849E5BE-1DF0-4587-A1DC-52DD5BB66A46}"
+EndProject
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "AL-ESC-Calibrate", "AL-ESC-Calibrate\AL-ESC-Calibrate.cppproj", "{9ACF5C1E-4BF3-4917-9F62-9726CBE42B06}"
+EndProject
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "AL-FlightController", "AL-FlightController\AL-FlightController.cppproj", "{7CAD0024-0CF0-4ACE-B0BB-C7D5C920896F}"
+EndProject
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "AL-2PropBalance", "AL-2PropBalance\AL-2PropBalance.cppproj", "{23435C3E-4BF3-4917-9F65-97568BE62B06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73ABF131-9EE4-46C0-B43E-CEBA09317B07}.Debug|AVR.ActiveCfg = Debug|AVR
+		{73ABF131-9EE4-46C0-B43E-CEBA09317B07}.Debug|AVR.Build.0 = Debug|AVR
+		{73ABF131-9EE4-46C0-B43E-CEBA09317B07}.Release|AVR.ActiveCfg = Release|AVR
+		{73ABF131-9EE4-46C0-B43E-CEBA09317B07}.Release|AVR.Build.0 = Release|AVR
+		{C5BB2EA7-0FF1-4E21-BA8A-3DA61E5B7A70}.Debug|AVR.ActiveCfg = Debug|AVR
+		{C5BB2EA7-0FF1-4E21-BA8A-3DA61E5B7A70}.Debug|AVR.Build.0 = Debug|AVR
+		{C5BB2EA7-0FF1-4E21-BA8A-3DA61E5B7A70}.Release|AVR.ActiveCfg = Release|AVR
+		{C5BB2EA7-0FF1-4E21-BA8A-3DA61E5B7A70}.Release|AVR.Build.0 = Release|AVR
+		{C849E5BE-1DF0-4587-A1DC-52DD5BB66A46}.Debug|AVR.ActiveCfg = Debug|AVR
+		{C849E5BE-1DF0-4587-A1DC-52DD5BB66A46}.Debug|AVR.Build.0 = Debug|AVR
+		{C849E5BE-1DF0-4587-A1DC-52DD5BB66A46}.Release|AVR.ActiveCfg = Release|AVR
+		{C849E5BE-1DF0-4587-A1DC-52DD5BB66A46}.Release|AVR.Build.0 = Release|AVR
+		{9ACF5C1E-4BF3-4917-9F62-9726CBE42B06}.Debug|AVR.ActiveCfg = Debug|AVR
+		{9ACF5C1E-4BF3-4917-9F62-9726CBE42B06}.Debug|AVR.Build.0 = Debug|AVR
+		{9ACF5C1E-4BF3-4917-9F62-9726CBE42B06}.Release|AVR.ActiveCfg = Release|AVR
+		{9ACF5C1E-4BF3-4917-9F62-9726CBE42B06}.Release|AVR.Build.0 = Release|AVR
+		{7CAD0024-0CF0-4ACE-B0BB-C7D5C920896F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{7CAD0024-0CF0-4ACE-B0BB-C7D5C920896F}.Debug|AVR.Build.0 = Debug|AVR
+		{7CAD0024-0CF0-4ACE-B0BB-C7D5C920896F}.Release|AVR.ActiveCfg = Release|AVR
+		{7CAD0024-0CF0-4ACE-B0BB-C7D5C920896F}.Release|AVR.Build.0 = Release|AVR
+		{23435C3E-4BF3-4917-9F65-97568BE62B06}.Debug|AVR.ActiveCfg = Debug|AVR
+		{23435C3E-4BF3-4917-9F65-97568BE62B06}.Debug|AVR.Build.0 = Debug|AVR
+		{23435C3E-4BF3-4917-9F65-97568BE62B06}.Release|AVR.ActiveCfg = Release|AVR
+		{23435C3E-4BF3-4917-9F65-97568BE62B06}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

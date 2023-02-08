@@ -1,0 +1,10 @@
+C:\Data\infotek\svn\2012\gat\Projects\Youtube\YoutubeExtractor\ExampleApplication.Portable\bin\Debug\ExampleApplication.Portable.exe.config
+C:\Data\infotek\svn\2012\gat\Projects\Youtube\YoutubeExtractor\ExampleApplication.Portable\bin\Debug\ExampleApplication.Portable.exe
+C:\Data\infotek\svn\2012\gat\Projects\Youtube\YoutubeExtractor\ExampleApplication.Portable\bin\Debug\ExampleApplication.Portable.pdb
+C:\Data\infotek\svn\2012\gat\Projects\Youtube\YoutubeExtractor\ExampleApplication.Portable\bin\Debug\YoutubeExtractor.dll
+C:\Data\infotek\svn\2012\gat\Projects\Youtube\YoutubeExtractor\ExampleApplication.Portable\bin\Debug\Newtonsoft.Json.dll
+C:\Data\infotek\svn\2012\gat\Projects\Youtube\YoutubeExtractor\ExampleApplication.Portable\bin\Debug\YoutubeExtractor.pdb
+C:\Data\infotek\svn\2012\gat\Projects\Youtube\YoutubeExtractor\ExampleApplication.Portable\bin\Debug\Newtonsoft.Json.xml
+C:\Data\infotek\svn\2012\gat\Projects\Youtube\YoutubeExtractor\ExampleApplication.Portable\obj\Debug\ExampleApplication.Portable.csprojResolveAssemblyReference.cache
+C:\Data\infotek\svn\2012\gat\Projects\Youtube\YoutubeExtractor\ExampleApplication.Portable\obj\Debug\ExampleApplication.Portable.exe
+C:\Data\infotek\svn\2012\gat\Projects\Youtube\YoutubeExtractor\ExampleApplication.Portable\obj\Debug\ExampleApplication.Portable.pdb

@@ -1,0 +1,9 @@
+C:\Data\infotek\svn\2012\gat\Projects\Youtube\YoutubeExtractor\ExampleApplication\bin\Debug\ExampleApplication.exe
+C:\Data\infotek\svn\2012\gat\Projects\Youtube\YoutubeExtractor\ExampleApplication\bin\Debug\ExampleApplication.pdb
+C:\Data\infotek\svn\2012\gat\Projects\Youtube\YoutubeExtractor\ExampleApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Data\infotek\svn\2012\gat\Projects\Youtube\YoutubeExtractor\ExampleApplication\bin\Debug\YoutubeExtractor.dll
+C:\Data\infotek\svn\2012\gat\Projects\Youtube\YoutubeExtractor\ExampleApplication\bin\Debug\YoutubeExtractor.pdb
+C:\Data\infotek\svn\2012\gat\Projects\Youtube\YoutubeExtractor\ExampleApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Data\infotek\svn\2012\gat\Projects\Youtube\YoutubeExtractor\ExampleApplication\obj\Debug\ExampleApplication.csprojResolveAssemblyReference.cache
+C:\Data\infotek\svn\2012\gat\Projects\Youtube\YoutubeExtractor\ExampleApplication\obj\Debug\ExampleApplication.exe
+C:\Data\infotek\svn\2012\gat\Projects\Youtube\YoutubeExtractor\ExampleApplication\obj\Debug\ExampleApplication.pdb
